@@ -1,3 +1,3 @@
 # web2-first
-MWEB2班
-你的傻逼
+
+## webpack终极版
